@@ -1,4 +1,4 @@
-'''mermaid
+```mermaid
 sequenceDiagram
     participant Attacker
     participant Botnet
@@ -22,7 +22,7 @@ sequenceDiagram
     Firewall->>WebServer: IP blocking applied
 
     Note right of WebServer: Web server becomes unresponsive due to too much traffic
-'''
+```
 
 
 
